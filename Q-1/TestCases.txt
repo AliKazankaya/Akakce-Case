@@ -1,0 +1,29 @@
+Manuel Test Cases
+
+1-  Verify that the user can log in successfully with valid credentials.
+2-  Verify that the user can add a product to their follow list.
+3-  Verify that the user can remove a product from their follow list.
+4-  Verify that the user can click on a product in their follow list to view its details.
+5-  Verify that the user receives a notification when a product in their follow list has a price drop.
+6-  Verify that the user can sort their follow list by various criteria. (e.g., price, name)
+7-  Verify that the user can filter their follow list based on specific criteria. (e.g., price drops)
+8-  Verify that the user can search for products within their follow list.
+9-  Verify that the user can log out successfully.
+10- Verify that the user can view the price history (at certain periods) of products in their follow list.
+11- Verify that the user can add products they follow to their list.
+12- Verify that the user can unfollow products their follow.
+13- Verify that the user can share products their follow.
+14- Verify that the user can set a target price for the products their follow.
+15- Verify that the user receives notifications when the price drops for the products their follow.
+16- Verify that the user can receive notify when a product in their follow list is out of stock.
+17- Verify that the user can turn off notifications for a product in their follow list.
+18- Verify that the "Follow List" functionality works seamlessly across different devices.
+19- Verify that the user can edit the follow list.
+20- Verify that the user is directed to the Store to download the Akakçe app.
+21- Verify that the user can view the 'My Lists' tab.
+22- Verify that the user can create a new list in the My Lists tab.
+23- Verify that the user can delete a list.
+24- Verify that the user can update the list name.
+25- Verify that the user can view the My 'My Notifications' tab.
+
+
